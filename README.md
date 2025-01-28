@@ -1,10 +1,8 @@
-# Wip
+# Changelog
 
 [![Automation](https://github.com/ghostwriter/changelog/actions/workflows/automation.yml/badge.svg)](https://github.com/ghostwriter/changelog/actions/workflows/automation.yml)
 [![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/changelog?color=8892bf)](https://www.php.net/supported-versions)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/changelog&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
-[![Code Coverage](https://codecov.io/gh/ghostwriter/changelog/branch/main/graph/badge.svg)](https://codecov.io/gh/ghostwriter/changelog)
-[![Latest Version on Packagist](https://badgen.net/packagist/v/ghostwriter/changelog)](https://packagist.org/packages/ghostwriter/changelog)
 [![Downloads](https://badgen.net/packagist/dt/ghostwriter/changelog?color=blue)](https://packagist.org/packages/ghostwriter/changelog)
 
 work in progress
