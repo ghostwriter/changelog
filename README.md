@@ -1,8 +1,8 @@
 # Changelog
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/changelog&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
 [![Automation](https://github.com/ghostwriter/changelog/actions/workflows/automation.yml/badge.svg)](https://github.com/ghostwriter/changelog/actions/workflows/automation.yml)
 [![Supported PHP Version](https://badgen.net/packagist/php/ghostwriter/changelog?color=8892bf)](https://www.php.net/supported-versions)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsor+@ghostwriter/changelog&logo=GitHub+Sponsors)](https://github.com/sponsors/ghostwriter)
 [![Downloads](https://badgen.net/packagist/dt/ghostwriter/changelog?color=blue)](https://packagist.org/packages/ghostwriter/changelog)
 
 work in progress
