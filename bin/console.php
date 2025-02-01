@@ -3,9 +3,9 @@
 
 declare(strict_types=1);
 
-namespace Ghostwriter\Wip\Console;
+namespace Ghostwriter\Changelog\Console;
 
-use Ghostwriter\Wip\Foo;
+use Ghostwriter\Changelog\Foo;
 
 use const STDERR;
 
@@ -15,7 +15,7 @@ use function sprintf;
 /** @var ?string $_composer_autoload_path */
 (static function (string $composerAutoloadPath): void {
     /** @psalm-suppress UnresolvableInclude */
-    require $composerAutoloadPath !== '' && $composerAutoloadPath !== '0' ? $composerAutoloadPath : fwrite(
+    require '' !== $composerAutoloadPath && '0' !== $composerAutoloadPath ? $composerAutoloadPath : fwrite(
         STDERR,
         sprintf('[ERROR]Cannot locate "%s"\n please run "composer install"\n', $composerAutoloadPath)
     ) && exit(1);
