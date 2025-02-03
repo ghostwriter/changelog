@@ -72,8 +72,7 @@
     ],
     "config": {
         "allow-plugins": {
-            "ghostwriter/coding-standard": true,
-            "ghostwriter/handrail": true
+            "ghostwriter/coding-standard": true
         },
         "bump-after-update": true,
         "classmap-authoritative": false,
