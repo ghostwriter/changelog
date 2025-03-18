@@ -1,7 +1,7 @@
 {
     "name": "ghostwriter/changelog",
     "description": "Effortlessly manage project changelogs with GitHub Milestones, Issue Labels, and PR Labels, aligned with the 'Keep a Changelog' standard, powered by GitHub CLI.",
-    "license": "BSD-3-Clause",
+    "license": "BSD-4-Clause",
     "type": "library",
     "keywords": [
         "ghostwriter",
