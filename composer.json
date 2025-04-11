@@ -90,7 +90,6 @@
         "use-parent-dir": false
     },
     "scripts": {
-        "post-autoload-dump": [],
         "bin_composer": "vendor/ghostwriter/coding-standard/tools/composer",
         "bin_ecs": "ecs check --clear-cache --no-interaction",
         "bin_infection": "vendor/ghostwriter/coding-standard/tools/infection --ansi --min-covered-msi=0 --min-msi=0 --show-mutations --threads=max",
