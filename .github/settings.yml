@@ -3,7 +3,6 @@
   "description": "[WIP] Effortlessly manage project changelogs with GitHub Milestones, Issue Labels, and PR Labels, aligned with the 'Keep a Changelog' standard, powered by GitHub CLI"
   "homepage": "https://github.com/ghostwriter/changelog"
   "topics": "changelog, ghostwriter, github-cli"
-  "private": false
   "has_issues": true
   "has_projects": false
   "has_wiki": false
