@@ -1,11 +1,12 @@
 {
     "name": "ghostwriter/changelog",
-    "description": "Effortlessly manage project changelogs with GitHub Milestones, Issue Labels, and PR Labels, aligned with the 'Keep a Changelog' standard, powered by GitHub CLI.",
     "license": "BSD-4-Clause",
+    "description": "Write, organize, and publish changelogs in the Keep a Changelog format using GitHub CLI.",
     "type": "library",
     "keywords": [
         "ghostwriter",
         "changelog",
+        "keep-a-changelog",
         "github-cli"
     ],
     "authors": [
@@ -37,12 +38,14 @@
     ],
     "require": {
         "php": "~8.4.0 || ~8.5.0",
+        "ext-mbstring": "*",
         "ghostwriter/case-converter": "~2.1.0",
         "ghostwriter/clock": "~3.0.1",
         "ghostwriter/collection": "~2.0.0",
         "ghostwriter/config": "~1.0.0",
         "ghostwriter/container": "~5.0.1",
         "ghostwriter/event-dispatcher": "~5.0.3",
+        "ghostwriter/filesystem": "~0.1.1",
         "ghostwriter/json": "~3.0.0"
     },
     "require-dev": {
@@ -52,6 +55,7 @@
         "phpunit/phpunit": "~12.3.8",
         "symfony/var-dumper": "~7.3.3"
     },
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload": {
         "psr-4": {
@@ -70,8 +74,7 @@
         ]
     },
     "bin": [
-        "bin/console",
-        "bin/console.php"
+        "bin/changelog"
     ],
     "config": {
         "allow-plugins": {
