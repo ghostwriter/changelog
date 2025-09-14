@@ -7,8 +7,8 @@
     "state": "open"
 "repository":
   "name": "changelog"
-  "description": "[WIP] Effortlessly manage project changelogs with GitHub Milestones, Issue Labels, and PR Labels, aligned with the 'Keep a Changelog' standard, powered by GitHub CLI"
-  "topics": "changelog, ghostwriter, github-cli"
+  "description": "[WIP] Write, organize, and publish changelogs in the Keep a Changelog format using GitHub CLI"
+  "topics": "changelog, ghostwriter, github-cli, keep-a-changelog"
   "homepage": "https://github.com/ghostwriter/changelog"
   "default_branch": "0.1.x"
   "allow_auto_merge": true
