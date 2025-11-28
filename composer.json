@@ -108,8 +108,8 @@
     },
     "extra": {
         "thanks": {
-            "url": "https://github.com/ghostwriter/changelog",
-            "name": "ghostwriter/changelog"
+            "name": "ghostwriter/changelog",
+            "url": "https://github.com/ghostwriter/changelog"
         }
     }
 }
