@@ -1,7 +1,7 @@
 {
     "name": "ghostwriter/changelog",
     "description": "Write, organize, and publish changelogs in the Keep a Changelog format using GitHub CLI.",
-    "license": "BSD-4-Clause",
+    "license": "BSD-3-Clause",
     "type": "library",
     "keywords": [
         "ghostwriter",
